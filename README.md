@@ -6,7 +6,7 @@
 
 What are some things to consider when designing microprocessors or databases?
 
-I've noticed in nature, that certain things happen exactly at the same time.  A good example is pecans, nuts, or seeds falling.  When I design a database, I wouldn't immediately think it's vital.
+I've noticed in nature, that certain things happen exactly at the same time.  A good example is orange ringed pecans, nuts, or seeds falling.  When I design a database, I wouldn't immediately think it's vital.
 
 I put this plant in a bucket and boiled it and put the boiled version of the plant nearby.
 
